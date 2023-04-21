@@ -1,0 +1,2 @@
+# gentinstall
+A gentoo installer
